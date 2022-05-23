@@ -1,0 +1,123 @@
+index,from,url,header
+1,apnews,https://apnews.com//article/russia-ukraine-biden-taiwan-china-4fb0ad0567ed5bbe46c01dd758e6c62b,Biden: US would intervene with military to defend Taiwan
+2,apnews,https://apnews.com//article/russia-ukraine-kyiv-kharkiv-2fb1355f5c0b5724adfc5b4367807335,Russian sentenced to life in Ukraine’s 1st war crimes trial
+3,apnews,https://apnews.com//article/pfizer-covid-vaccine-children-under-5-bb01e939338991f83a84f5c1a2aabafa,Pfizer says 3 COVID shots protect children under 5
+4,apnews,https://apnews.com//article/russia-ukraine-putin-politics-41f8ccd1e1d75a062275181d9288d378,"After 3 months of war, life in Russia has profoundly changed"
+5,apnews,https://apnews.com//article/biden-covid-politics-health-united-states-2e5ba9c704ac7e347c73e8a4def2c90c,Court ruling extends uneven treatment for asylum-seekers
+6,apnews,https://apnews.com//article/science-health-af7a9482bc636b1c4d4bd3e1b55156d1,Theories emerge for mysterious liver illnesses in children
+7,apnews,https://apnews.com//article/russia-ukraine-biden-asia-united-states-c6878c7d14112e45a870a3e8735f7e71,"Biden launches Indo-Pacific trade deal, warns over inflation"
+8,apnews,https://apnews.com//article/health-world-organization-united-nations-animals-72a9efaaf5b55ace396398b839847505,Expert: Monkeypox likely spread by sex at 2 raves in Europe
+9,apnews,https://apnews.com//article/russia-ukraine-world-economic-forum-climate-zelenskyy-health-f149534c73a6166556ab7533b611b243,Zelenskyy urges ‘maximum’ sanctions on Russia in Davos talk
+10,apnews,https://apnews.com//article/baptist-religion-sexual-abuse-by-clergy-southern-convention-bfdbe64389790630488f854c3dae3fd5,Report: Top Southern Baptists stonewalled sex abuse victims
+11,apnews,https://apnews.com//article/health-new-york-city-5e50b8bffa4625f7b1b520913861d5bb,New York officials investigate case of suspected monkeypox
+12,apnews,https://apnews.com//article/sports-new-york-city-brooklyn-marathons-901d2e5a0cfd5ba4875380beddda8ec1,"Runner collapses, dies after Brooklyn half-marathon"
+13,apnews,https://apnews.com//article/science-oddities-minnesota-minneapolis-native-americans-d4722c10440e2e6ef074299c3f3fdb99,"Nearly 8,000-year-old skull found in Minnesota River"
+14,apnews,https://apnews.com//article/india-kashmir-mountains-tunnel-collapses-ac1e150c7dfdacad0eef5144d870fb96,"9 more bodies found in Kashmir tunnel collapse, toll at 10"
+15,apnews,https://apnews.com//article/buffalo-supermarket-shooting-covid-health-education-suicide-prevention-0ef4bbf0cb9f95ae342076a508cda507,School counselors sound cry for help after Buffalo shooting
+16,apnews,https://apnews.com//article/buffalo-supermarket-shooting-syracuse-religion-shootings-4ac02e31af835c5f5f4b714ed57b5c99,Buffalo shooting victim laid to rest; city marks 1 week
+17,apnews,https://apnews.com//article/is-mass-death-now-tolerated-in-america-shootings-covid-b95cba76f15acf801d5a6b0d1d3d559f,"COVID-19, shootings: Is mass death now tolerated in America?"
+18,apnews,https://apnews.com//article/buffalo-supermarket-shooting-new-york-race-and-ethnicity-robert-aaron-long-39570624f19291efd6e87bd61da7508e,Handling of Buffalo suspect spurs talk of uneven restraint
+19,apnews,https://apnews.com//article/russia-ukraine-putin-politics-41f8ccd1e1d75a062275181d9288d378,"After 3 months of war, life in Russia has profoundly changed"
+20,apnews,https://apnews.com//article/russia-ukraine-kyiv-kharkiv-2fb1355f5c0b5724adfc5b4367807335,Russian sentenced to life in Ukraine's 1st war crimes trial
+21,apnews,https://apnews.com//article/ukrainian-pow-photos-mariupol-siege-cc5d2209aa11de606140c3fa7c5dfdf2,AP PHOTOS: A POW's legacy of Mariupol siege pictures
+22,apnews,https://apnews.com//article/russia-ukraine-59e81265932244b2a50a42fd859fa9a2,"Starbucks leaving Russian market, shutting 130 stores"
+23,apnews,https://apnews.com//article/biden-asia-tokyo-government-and-politics-8577338ff19c5c17b78a4b747327aa34,EXPLAINER: What's in Biden's proposed new Asia trade pact?
+24,apnews,https://apnews.com//article/russia-ukraine-59e81265932244b2a50a42fd859fa9a2,"Starbucks leaving Russian market, shutting 130 stores"
+25,apnews,https://apnews.com//article/pfizer-covid-vaccine-children-under-5-bb01e939338991f83a84f5c1a2aabafa,Pfizer says 3 COVID shots protect children under 5
+26,apnews,https://apnews.com//article/wall-street-stocks-may-23-22bfa7c8926a0a97d184218f82bd471b,US stocks open higher following 7 straight weeks of losses
+27,apnews,https://apnews.com//article/russia-ukraine-biden-asia-united-states-c6878c7d14112e45a870a3e8735f7e71,"Biden launches Indo-Pacific trade deal, warns over inflation"
+28,apnews,https://apnews.com//article/biden-asia-tokyo-government-and-politics-8577338ff19c5c17b78a4b747327aa34,EXPLAINER: What's in Biden's proposed new Asia trade pact?
+29,apnews,https://apnews.com//article/may-24-primary-what-to-know-20976f7121bd61d089713516f4a03b32,"2022 midterms: What to watch in Georgia, Texas, elsewhere"
+30,apnews,https://apnews.com//article/voting-rights-2022-midterm-elections-biden-georgia-race-and-ethnicity-a7f953c6ac8168125d5b574e9dccaaad,Stacey Abrams aims to recapture energy of first campaign
+31,apnews,https://apnews.com//article/biden-health-south-korea-asia-united-states-df2d674ea2ad955cb6805128f6d33a6a,Biden says monkeypox cases something to 'be concerned about'
+32,apnews,https://apnews.com//article/science-health-africa-france-56c405d91f650a41593a4a03c0ab9d79,"African scientists baffled by monkeypox cases in Europe, US"
+33,apnews,https://apnews.com//article/davo-by-train-jet-set-climate-change-df8df30a199877cbcf1cd8681172c1af,EXPLAINER: What are the key climate themes at Davos?
+34,apnews,https://apnews.com//article/climate-wildfires-biden-science-55681a114dda3151202efbe58dcd3b41,"Biden forest plan stirs dispute over what counts as ""old"""
+35,apnews,https://apnews.com//article/biden-covid-politics-health-united-states-2e5ba9c704ac7e347c73e8a4def2c90c,Court ruling extends uneven treatment for asylum-seekers
+36,apnews,https://apnews.com//article/baptist-religion-sexual-abuse-by-clergy-southern-convention-bfdbe64389790630488f854c3dae3fd5,Report: Top Southern Baptists stonewalled sex abuse victims
+37,apnews,https://apnews.com//article/buffalo-supermarket-shooting-health-race-and-ethnicity-racial-injustice-8f3eb8eb4506664184bbaa43da36009c,"Buffalo shooting's wounds need a strong salve, residents say"
+38,apnews,https://apnews.com//article/covid-politics-health-racial-injustice-discrimination-532532a89e259b67f0ceb7bf333f4e26,Are police consent decrees an asset? Depends on who you ask
+39,apnews,https://apnews.com//article/cannes-film-festival-entertainment-riley-keough-south-dakota-andrea-arnold-7258bdf46454866309840a6e427cdf4d,'War Pony' brings Pine Ridge Reservation to Cannes
+40,apnews,https://apnews.com//article/cannes-film-festival-entertainment-france-woody-harrelson-4f7cff5cc84170c8d81dae0c0153de23,'Triangle of Sadness': Biting social satire delights Cannes
+41,apnews,https://apnews.com//article/entertainment-melanie-brown-celebrity-birthdays-justin-chon-5fa1e891ff4de5485a2a69833d2156cf,Celebrity birthdays for the week of May 29-June 4
+42,apnews,https://apnews.com//article/cannes-film-festival-politics-entertainment-eastern-europe-8f9957b3d488abf5fa61facf01f8ff71,Cannes: Transylvania-set 'R.M.N.' probes a ubiquitous crisis
+43,apnews,https://apnews.com//article/russia-ukraine-putin-switzerland-government-and-politics-2019b1448217f57e68d2b18b6727bf99,Russian diplomat to UN in Geneva resigns over war in Ukraine
+44,apnews,https://apnews.com//article/russia-ukraine-united-nations-migration-0b0e02e27948b5d61e5eb314c459590f,UN refugee agency: Number of displaced tops 100 million
+45,apnews,https://apnews.com//article/russia-ukraine-biden-asia-united-states-c6878c7d14112e45a870a3e8735f7e71,"Biden launches Indo-Pacific trade deal, warns over inflation"
+46,apnews,https://apnews.com//article/health-world-organization-united-nations-animals-72a9efaaf5b55ace396398b839847505,Expert: Monkeypox likely spread by sex at 2 raves in Europe
+47,apnews,https://apnews.com//article/arizona-nebraska-tucson-lincoln-e23282f8cd82d17926999c17b4c27d65,Pool noodle fight over the name Josh again attracts hundreds
+48,apnews,https://apnews.com//article/science-oddities-minnesota-minneapolis-native-americans-d4722c10440e2e6ef074299c3f3fdb99,"Nearly 8,000-year-old skull found in Minnesota River"
+49,apnews,https://apnews.com//article/oddities-dfd668013ccc91d44b3fc01f2ed98e41,German farm owner saves fuel money with horse-drawn carriage
+50,apnews,https://apnews.com//article/politics-travel-greece-museums-5e81f76d35ee07822f1de383f86448c2,"After string of adventures, ancient gold ring back in Greece"
+51,apnews,https://apnews.com//article/dallas-mavericks-golden-state-warriors-nba-sports-klay-thompson-2f6a0c58ab25f6512ffe1f090224f272,"Wiggins, Warriors dunk Mavericks 109-100 for 3-0 series lead"
+52,apnews,https://apnews.com//article/nhl-sports-steven-stamkos-nikita-kucherov-corey-perry-dc401e9375eba7f9b299bada0f03db59,"Stamkos, Kucherov lead Lightning past Panthers 5-1 in Game 3"
+53,apnews,https://apnews.com//article/sports-scott-dixon-indianapolis-indiana-500-b1d71c2804d881d1e34812814ce84d1a,Scott Dixon blazes to Indy 500 pole in record 234 mph run
+54,apnews,https://apnews.com//article/french-open-novak-djokovic-rafael-nadal-naomi-osaka-sports-0bc0f05d51262636625db137c7f6ce04,French Open updates | Osaka considers skipping Wimbledon
+55,apnews,https://apnews.com//article/covid-health-north-korea-south-government-and-politics-58427657c86efd410069c2426b07576b,"Kim, other N. Koreans attend large funeral amid COVID worry"
+56,apnews,https://apnews.com//article/biden-covid-politics-health-united-states-2e5ba9c704ac7e347c73e8a4def2c90c,Court ruling extends uneven treatment for asylum-seekers
+57,apnews,https://apnews.com//article/boris-johnson-covid-health-government-and-politics-4bd1bec7832d17263da31849b97be86d,UK's Boris Johnson awaits judgment of 'partygate' report
+58,apnews,https://apnews.com//article/russia-ukraine-world-economic-forum-climate-zelenskyy-health-f149534c73a6166556ab7533b611b243,Zelenskyy urges 'maximum' sanctions on Russia in Davos talk
+59,apnews,https://apnews.com//article/climate-ouagadougou-politics-middle-east-57208ec04f9413fb06b181e9183d7cdd,"Security concerns, lack of support stall Africa's Green Wall"
+60,apnews,https://apnews.com//article/biden-scott-morrison-tokyo-australia-df265e86e39213693f7972865258916f,Albanese sworn in as PM in Australia ahead of Tokyo summit
+61,apnews,https://apnews.com//article/scott-morrison-australia-sydney-government-and-politics-dc475b4063ed3f2fd01fb00874f6b32c,Albanese elected Australia's leader in complex poll result
+62,apnews,https://apnews.com//article/russia-ukraine-world-economic-forum-climate-government-and-politics-225c8769baa8fb5aa17f55024937dcf7,"Climate to conflict, Davos' post-COVID return has full plate"
+63,apnews,https://apnews.com//article/baptist-religion-sexual-abuse-by-clergy-southern-convention-bfdbe64389790630488f854c3dae3fd5,Report: Top Southern Baptists stonewalled sex abuse victims
+64,apnews,https://apnews.com//article/pfizer-covid-vaccine-children-under-5-bb01e939338991f83a84f5c1a2aabafa,Pfizer says 3 COVID shots protect children under 5
+65,apnews,https://apnews.com//article/environment-new-york-obituaries-2034c8adac4a399518403ab0644138f7,Green options transforming a wedding industry prone to waste
+66,apnews,https://apnews.com//article/entertainment-movies-costume-design-70250ca8d04595e979d049c65c56fea2,"Something old, something new — the costumes of Downton Abbey"
+67,apnews,https://apnews.com//article/russia-ukraine-putin-moscow-helsinki-6f6ce1c5d65e643d76bcd66e5ebbd4ea,Russia cuts off gas exports to Finland in symbolic move
+68,apnews,https://apnews.com//article/technology-chicago-education-data-privacy-4013e749b2d1cd57604b3e5e1db7f30e,"Breach exposed data of half-million Chicago students, staff"
+69,apnews,https://apnews.com//article/elon-musk-spacex-sexual-misconduct-b875a5461cbd1201e6986fd2533c2c64,Musk denies sexual misconduct allegation by flight attendant
+70,apnews,https://apnews.com//article/politics-technology-european-union-9c6336f7a160f502d7241e38cc5fba07,"European nations, streaming service delete extremist audio"
+71,apnews,https://apnews.com//article/government-and-politics-race-ethnicity-philanthropy-black-lives-matter-5bc4772e029da522036f8ad2a02990aa,AP Exclusive: Black Lives Matter has $42 million in assets
+72,apnews,https://apnews.com//article/russia-ukraine-war-crimes-schools-d1e52368aced8b3359f4436ca7180811,"War Crimes Watch: Targeting schools, Russia bombs the future"
+73,apnews,https://apnews.com//article/china-prisons-uyghurs-religion-0dd1a31f9be29d32c584543af4698955,Uyghur county in China has highest prison rate in the world
+74,apnews,https://apnews.com//article/russia-ukraine-kyiv-b63f3ab89fc9a042be8e149f3459db22,'This tears my soul apart': A Ukrainian boy and a killing
+75,yleuutiset,https://yle.fi/uutiset/uutiset/3-12314941,"Venäjän YK-toimiston lä­he­tys­tö­neu­vos erosi – ""En ole koskaan hävennyt maatani näin paljon"""
+76,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457232,Ukrainan ensimmäinen nainen Olena Zelenska paljasti harvinaisessa haas­tat­te­lus­sa: Ei nähnyt miestään yli kahteen kuukauteen
+77,yleuutiset,https://yle.fi/uutiset/uutiset/3-12455805,"Moskovalaiset suhtautuvat tyynesti Suomen ja Ruotsin Nato-pyr­ki­myk­siin – ""Luotan Putinin sanaan"", perustelee Aleksandr Z-symboli rinnassaan"
+78,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457156,Apinarokosta ei tule toista koronaa – iso­rok­ko­ro­ko­te tepsii ja Suomellakin on sitä varastossa
+79,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457349,"Kunta-alan neuvottelut karilla, kouluja voi uhata lakko elokuussa – työntekijät halusivat takeita, ettei hoitajille makseta muita enemmän"
+80,yleuutiset,https://yle.fi/uutiset/uutiset/3-12389665,"MS-tauti yleistyy, mutta syyt eivät ole täysin tiedossa – kehittyneet lääkkeet auttavat nyt erityisesti sairauden alkuvaiheessa"
+81,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457139,Joe Biden ehdottaa uutta Tyynenmeren ta­lous­jär­jes­töä – mukana olisi Yhdysvallat mukaan lukien 13 maata 
+82,yleuutiset,https://yle.fi/uutiset/uutiset/3-12454034,"Arkea maailmalta: Sota Ukrainassa nostaa hintoja, mutta Saksassa pai­kal­lis­lii­ken­ne on kesän ajan ennätyshalpaa – kuukausilippu yhdeksällä eurolla"
+83,yleuutiset,https://yle.fi/uutisethttps://yle.fi/urheilu/3-12457153,"Kommentti: Riehakas juhlaperinne toimii kanavana älyttömiin vä­ki­val­lan­te­koi­hin – jotain on pielessä, kun katsoja puskee pelaajan päällä kanveesiin"
+84,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457063,"Poliisi lähetti kuvia su­kue­li­mes­tään ja nyt pohditaan rangaistusta – yhtä suuri ongelma on, että hän oli pukeutunut virka-asuunsa"
+85,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457155,"Kun nainen synnyttää, supistuksia pitää olla riittävästi mutta ei liikaa – tuore väitös kertoo, miten monella tavalla ylipaino vaikuttaa synnytyksiin"
+86,yleuutiset,https://yle.fi/uutiset/uutiset/3-12450632,Koiran haukkuminen toi omistajalle tuomion kotirauhan rikkomisesta – hovioikeus vahvisti poik­keuk­sel­li­sen tuomion
+87,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457022,Metsäkauris poukkoili Turun keskustassa ja päätyi uimaan Aurajokeen – uintireissu päättyi pin­ta­pe­las­ta­jan avustuksella maijan takapenkille
+88,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457267,Fazer aikoo rakentaa uuden ma­keis­teh­taan­sa Lahteen – kau­pun­gin­joh­ta­ja Pekka Timonen: “Lahdelle koitti harvinaisen hyvä karkkipäivä”
+89,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457188,Vertailu: Säh­kön­siir­to­yh­tiöi­den hin­noit­te­lus­sa on huomattavan suuria eroja
+90,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457051,Thaimaalaiset man­si­kan­poi­mi­jat saapuvat hoitamaan maan suurimman man­si­kan­vil­je­li­jän sadonkorjuun
+91,yleuutiset,https://yle.fi/uutiset/uutiset/3-12314941,"Venäjän YK-toimiston lä­he­tys­tö­neu­vos erosi – ""En ole koskaan hävennyt maatani näin paljon"""
+92,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457156,Apinarokosta ei tule toista koronaa – iso­rok­ko­ro­ko­te tepsii ja Suomellakin on sitä varastossa
+93,yleuutiset,https://yle.fi/uutiset/uutiset/3-12389665,"MS-tauti yleistyy, mutta syyt eivät ole täysin tiedossa – kehittyneet lääkkeet auttavat nyt erityisesti sairauden alkuvaiheessa"
+94,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457063,"Poliisi lähetti kuvia su­kue­li­mes­tään ja nyt pohditaan rangaistusta – yhtä suuri ongelma on, että hän oli pukeutunut virka-asuunsa"
+95,yleuutiset,https://yle.fi/uutiset/uutiset/3-12450632,Koiran haukkuminen toi omistajalle tuomion kotirauhan rikkomisesta – hovioikeus vahvisti poik­keuk­sel­li­sen tuomion
+96,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457412,"Vuosikymmeniä kestänyt karkkiperinne itärajalla päättyi Fazerin ilmoitukseen: ""Tavattoman iso menetys"""
+97,yleuutiset,https://yle.fi/uutiset/uutiset/3-12452347,"La­puan­liik­kees­tä kertovalla oopperalla on vahva väkivallan vastainen sanoma – siitä tuli yllättävän ajan­koh­tai­nen, sanoo ohjaaja"
+98,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457156,Apinarokosta ei tule toista koronaa – iso­rok­ko­ro­ko­te tepsii ja Suomellakin on sitä varastossa
+99,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457232,Ukrainan ensimmäinen nainen Olena Zelenska paljasti harvinaisessa haas­tat­te­lus­sa: Ei nähnyt miestään yli kahteen kuukauteen
+100,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457409,Poliisi tutkii epäselvyyksiä Lappeenrannan lentoaseman avustuksissa – tut­kin­ta­pyyn­nön teki niitä myöntänyt ministeriö
+101,yleuutiset,https://yle.fi/uutiset/uutiset/3-12454034,"Arkea maailmalta: Sota Ukrainassa nostaa hintoja, mutta Saksassa pai­kal­lis­lii­ken­ne on kesän ajan ennätyshalpaa – kuukausilippu yhdeksällä eurolla"
+102,yleuutiset,https://yle.fi/uutisethttps://yle.fi/urheilu/3-12457153,"Kommentti: Riehakas juhlaperinne toimii kanavana älyttömiin vä­ki­val­lan­te­koi­hin – jotain on pielessä, kun katsoja puskee pelaajan päällä kanveesiin"
+103,yleuutiset,https://yle.fi/uutiset/uutiset/3-12450632,Koiran haukkuminen toi omistajalle tuomion kotirauhan rikkomisesta – hovioikeus vahvisti poik­keuk­sel­li­sen tuomion
+104,yleuutiset,https://yle.fi/uutiset/uutiset/3-12389665,"MS-tauti yleistyy, mutta syyt eivät ole täysin tiedossa – kehittyneet lääkkeet auttavat nyt erityisesti sairauden alkuvaiheessa"
+105,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457063,"Poliisi lähetti kuvia su­kue­li­mes­tään ja nyt pohditaan rangaistusta – yhtä suuri ongelma on, että hän oli pukeutunut virka-asuunsa"
+106,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457156,Apinarokosta ei tule toista koronaa – iso­rok­ko­ro­ko­te tepsii ja Suomellakin on sitä varastossa
+107,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457232,Ukrainan ensimmäinen nainen Olena Zelenska paljasti harvinaisessa haas­tat­te­lus­sa: Ei nähnyt miestään yli kahteen kuukauteen
+108,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457267,Fazer aikoo rakentaa uuden ma­keis­teh­taan­sa Lahteen – kau­pun­gin­joh­ta­ja Pekka Timonen: “Lahdelle koitti harvinaisen hyvä karkkipäivä”
+109,yleuutiset,https://yle.fi/uutiset/uutiset/3-12453138,"Onko sinulla kolme lasta tai enemmän? Tutkimus kertoo, että ikäännyt vuosia muita nopeammin"
+110,yleuutiset,https://yle.fi/uutiset/uutiset/3-12451038,"Vanhentunut käsitys hyvästä salasanasta elää sitkeästi, sanoo professori ja antaa kolme vinkkiä oman tietoturvan parantamiseen"
+111,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457349,"Kunta-alan neuvottelut karilla, kouluja voi uhata lakko elokuussa – työntekijät halusivat takeet, ettei hoitajille makseta muita enemmän"
+112,yleuutiset,https://yle.fi/uutiset/uutiset/3-12442165,Ralf Friman on tehnyt 28 vuotta pidemmän työuran kuin suomalaiset keskimäärin – silti töihin lähteminen ei ikinä tunnu raskaalta
+113,yleuutiset,https://yle.fi/uutiset/uutiset/3-12456732,"Puo­lus­tus­voi­mat saa antaa aseitaan vapaaehtoisen maan­puo­lus­tuk­sen käyttöön ehkä jo kesällä, sanoo ministeri Kaikkonen"
+114,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457051,Thaimaalaiset man­si­kan­poi­mi­jat saapuvat hoitamaan maan suurimman man­si­kan­vil­je­li­jän sadonkorjuun
+115,yleuutiset,https://yle.fi/uutiset/uutiset/3-12455805,"Moskovalaiset suhtautuvat tyynesti Suomen ja Ruotsin Nato-pyr­ki­myk­siin – ""Luotan Putinin sanaan"", perustelee Aleksandr Z-symboli rinnassaan"
+116,yleuutiset,https://yle.fi/uutiset/uutiset/3-12434615,"Vanhemmat pelkäsivät pahinta, kun alakoulun kuudes luokka siirrettiin yläkouluun – kävikin päinvastoin: ""En ole juuri törmännyt tällaiseen muualla"""
+117,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457022,Metsäkauris poukkoili Turun keskustassa ja päätyi uimaan Aurajokeen – uintireissu päättyi pin­ta­pe­las­ta­jan avustuksella maijan takapenkille
+118,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457139,Joe Biden ehdottaa uutta Tyynenmeren ta­lous­jär­jes­töä – mukana olisi Yhdysvallat mukaan lukien 13 maata 
+119,yleuutiset,https://yle.fi/uutiset/uutiset/3-12442165,Ralf Friman on tehnyt 28 vuotta pidemmän työuran kuin suomalaiset keskimäärin – silti töihin lähteminen ei ikinä tunnu raskaalta
+120,yleuutiset,https://yle.fi/uutiset/uutiset/3-12457005,Hel­sin­ki­läi­ses­sä ryhmäkodissa syttyi tulipalo – yksi vietiin sairaalaan
+121,yleuutiset,https://yle.fi/uutiset/uutiset/3-12456732,"Puo­lus­tus­voi­mat saa antaa aseitaan vapaaehtoisen maan­puo­lus­tuk­sen käyttöön ehkä jo kesällä, sanoo ministeri Kaikkonen"
+122,yleuutiset,https://yle.fi/uutiset/uutiset/3-12456543,Yhä useampi vanhus pää­kau­pun­ki­seu­dul­la käyttää liikaa alkoholia – Sivullinenkin voi ilmoittaa huolestaan vanhuksesta
